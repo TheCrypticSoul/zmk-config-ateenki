@@ -1,5 +1,10 @@
-if SHIELD_ATEENKI
+config ZMK_BLE
+    default y
 
+config ZMK_USB
+    default y
+
+if SHIELD_ATEENKI_LEFT || SHIELD_ATEENKI_RIGHT
 config ZMK_KEYBOARD_NAME
     default "ateenki"
 

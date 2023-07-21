@@ -14,4 +14,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: ateenki
+    shield: ateenki_left
+  - board: nice_nano_v2
+    shield: ateenki_right

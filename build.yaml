@@ -17,3 +17,5 @@ include:
     shield: ateenki_left
   - board: nice_nano_v2
     shield: ateenki_right
+  - board: nice_nano_v2
+    shield: settings_reset

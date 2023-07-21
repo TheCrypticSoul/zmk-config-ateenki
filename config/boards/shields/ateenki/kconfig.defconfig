@@ -1,0 +1,6 @@
+if SHIELD_ATEENKI
+
+config ZMK_KEYBOARD_NAME
+    default "AteenKi"
+
+end if
